@@ -1,0 +1,11 @@
+Zrealizuj procedure ktora liczy i zwraca wartosc iloczynu skalarnego wektorow w przestrzeni R(n)
+
+R^n
+[	x1	]
+	x2
+	x3
+	x4
+	.
+	.
+	xn
+
